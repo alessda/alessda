@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![alt text][1.1]][1]
-[1.1] : https://i.imgur.com/Vahbdkj.png
-[1] : www.linkedin.com/in/alessandro-d-apice
