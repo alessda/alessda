@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
+[1.1] : https://i.imgur.com/Vahbdkj.png
+[1] : www.linkedin.com/in/alessandro-d-apice
