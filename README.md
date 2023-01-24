@@ -50,6 +50,9 @@
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
     <img src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" alt="Assembly" width="40" height="40"/>
   </a>
+  <a href="https://www.ros.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ros" width="40" height="40"/>
+    </>
 </div>
 
 <div align="center">
