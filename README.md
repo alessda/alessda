@@ -3,7 +3,8 @@
   <p> <img src=https://komarev.com/ghpvc/?username=alessda alt=alessda> </p>
 </div>
 <div align="center">
-  <h3> I am currently attending the master's degree in Mechatronic engineering at Politecnico di Torino. During my university career I have developed skills and technical knowledge notably in computer science and control theory among the other things.
+  <h3> I am currently attending the master's degree in Mechatronic engineering at Politecnico di Torino. </h3>
+  <h3> During my university career I have developed skills and technical knowledge notably in computer science and control theory among the other things.
   </h3>
 </div>
 <div align="center">
