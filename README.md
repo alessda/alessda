@@ -3,6 +3,10 @@
   <p> <img src=https://komarev.com/ghpvc/?username=alessda alt=alessda> </p>
 </div>
 <div align="center">
+  <h3> I am currently attending the master's degree in Mechatronic engineering at Politecnico di Torino. During my university career I have developed skills and technical knowledge notably in computer science and control theory among the other things.
+  </h3>
+</div>
+<div align="center">
   <h2>
     Tools and Programming languages I am most familiar with:
   </h2>
@@ -11,9 +15,6 @@
   </a> 
   <a href="https://www.mathworks.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>   
@@ -53,6 +54,9 @@
   <a href="https://www.ros.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ros" width="40" height="40"/>
     </>
+      <a href="https://www.java.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
+  </a>
 </div>
 
 <div align="center">
