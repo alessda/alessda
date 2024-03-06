@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <h2>
-    Tools and Programming languages I am most familiar with:
+    I possess proficiency in a variety of tools and programming languages. Among these, I am particularly well-versed in the following::
   </h2>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
