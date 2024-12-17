@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <h2>
-    I possess proficiency in a variety of tools and programming languages. Among these, I am particularly well-versed in the following::
+    I possess proficiency in a variety of tools and programming languages. Among these, I am particularly well-versed in the following:
   </h2>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
@@ -57,15 +57,4 @@
       <a href="https://www.java.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
   </a>
-</div>
-
-<div align="center">
-  <h2> You can reach me here:  
-    <a href="https://www.linkedin.com/in/alessandro-d-apice/" target="_blank">
-      <img  alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-    </a>
-    <a href="mailto:alessandrodapice.jobs@gmail.com" target="_blank">
-      <img  alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
-    </a>
-  </h2>
 </div>
